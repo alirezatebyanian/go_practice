@@ -11,7 +11,7 @@ func findMax(nums []int) int {
 		if v > max {
 			max = v
 		}
-		fmt.Println(v)
+
 	}
 	return max
 }

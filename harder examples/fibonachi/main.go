@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+
 	fib_nums := []int{0, 1}
 	var n int
 	fmt.Print("enter the end: ")
@@ -16,4 +17,5 @@ func main() {
 	}
 
 	fmt.Println(fib_nums)
+
 }

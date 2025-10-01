@@ -21,7 +21,7 @@ func main() {
 		} else if guess < r {
 			fmt.Println("higher")
 		} else {
-			fmt.Println("you'r goddam right")
+			fmt.Println("you're goddamn right")
 			break
 		}
 	}

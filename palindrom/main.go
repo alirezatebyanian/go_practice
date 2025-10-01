@@ -17,9 +17,9 @@ func main() {
 	}
 
 	if word == reveresed {
-		fmt.Println("the word is Palidrom")
+		fmt.Println("the word is Palindrom")
 	} else {
-		fmt.Println("the word is not Palidrom")
+		fmt.Println("the word is not Palindrom")
 	}
 
 }
